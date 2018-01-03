@@ -1,0 +1,7 @@
+C:\Users\Kevin Bowersox\source\repos\SimpleEmail2\SimpleEmail2\bin\Debug\SimpleEmail2.exe.config
+C:\Users\Kevin Bowersox\source\repos\SimpleEmail2\SimpleEmail2\bin\Debug\SimpleEmail2.exe
+C:\Users\Kevin Bowersox\source\repos\SimpleEmail2\SimpleEmail2\bin\Debug\SimpleEmail2.pdb
+C:\Users\Kevin Bowersox\source\repos\SimpleEmail2\SimpleEmail2\obj\Debug\SimpleEmail2.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Bowersox\source\repos\SimpleEmail2\SimpleEmail2\obj\Debug\SimpleEmail2.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Bowersox\source\repos\SimpleEmail2\SimpleEmail2\obj\Debug\SimpleEmail2.exe
+C:\Users\Kevin Bowersox\source\repos\SimpleEmail2\SimpleEmail2\obj\Debug\SimpleEmail2.pdb
